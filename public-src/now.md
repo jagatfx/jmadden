@@ -1,12 +1,13 @@
 ---
 layout: page
 title: Now - Jacob Madden
+cover: 'assets/images/cover1.jpg'
 class: 'post'
 navigation: True
-current: about
+current: now
 ---
 
-> Embracing the now for it is all we have
+"Embracing the now for it is all we have"
 
 ## Location
 

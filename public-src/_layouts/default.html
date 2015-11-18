@@ -1,28 +1,7 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <!-- [[! Document Settings ]] -->
-    <meta charset="utf-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+{% include head.html %}
 
-    <!-- [[! Page Meta ]] -->
-    <title>{% if page.title %}{{ page.title }}{% elsif site.name %}{{ site.name }}{% endif %}</title>
-    <meta name="description" content="{{ site.name }} - {{ site.description }}" />
-
-    <meta name="HandheldFriendly" content="True" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-
-    <link rel="shortcut icon" href="{{ site.baseurl }}assets/images/favicon.ico" >
-
-    <!-- [[! Styles'n'Scripts ]] -->
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}assets/css/screen.css" />
-    <link rel="stylesheet" type="text/css"
-          href="//fonts.googleapis.com/css?family=Merriweather:300,700,700italic,300italic|Open+Sans:700,400" />
-
-    <!-- [[! Ghost outputs important style and meta data with this tag ]] -->
-    {% include head.html %}
-
-</head>
 <body class="{% if page.url contains 'page2' %}paged archive-template{% elsif page.class %}{{ page.class }}{% else %}home-template{% endif %} nav-closed">
 
     {% include navigation.html %}
