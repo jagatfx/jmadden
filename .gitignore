@@ -1,0 +1,8 @@
+.jekyll-metadata
+.DS_Store
+node_modules
+data
+.env
+npm-debug.log
+Gemfile.lock
+public-src/.jekyll-metadata

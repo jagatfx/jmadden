@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>www.jmadden.org</title>
+   
+   <link>http://www.jmadden.org</link>
+   <description>Don't cry because it's over, smile because it happened. -Dr Seuss</description>
+   <language>en-us</language>
+   <managingEditor> Jacob Madden</managingEditor>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>The Beginning</title>
+	  <link>//the-beginning</link>
+	  <author>Jacob Madden</author>
+	  <pubDate>2015-11-18T00:00:00+08:00</pubDate>
+	  <guid>//the-beginning</guid>
+	  <description><![CDATA[
+	     <p>Inspired by <a href="https://sivers.org" target="_blank">Derek Sivers</a> and his <a href="http://nownownow.com" target="_blank">nownownow.com</a>, I've created a simple space for me to add what I am doing and what is going on in life.</p>
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>

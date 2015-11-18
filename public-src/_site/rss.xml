@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>Jacob Madden</title>
+    <link>http://www.jmadden.org</link>
+    <description>Don't cry because it's over, smile because it happened. -Dr Seuss</description>
+    <pubDate>Wed, 18 Nov 2015 00:00:00 +0800</pubDate>
+    <item>
+      <title>The Beginning</title>
+      <link>http://www.jmadden.org/the-beginning</link>
+      <description>&lt;p&gt;This is just an &lt;em&gt;ipsis verbis&lt;/em&gt; copy of the first example running on the &lt;a href=&quot;http://demo.ghost.io&quot;&gt;Ghost Demo&lt;/a&gt;. This shows how you can use html styling to achieve your hopes.&lt;/p&gt;
+
+</description>
+      <pubDate>Wed, 18 Nov 2015 00:00:00 +0800</pubDate>
+      <dc:date>2015-11-18T00:00:00+08:00</dc:date>
+    </item>
+    <dc:date>2015-11-18T00:00:00+08:00</dc:date>
+  </channel>
+</rss>

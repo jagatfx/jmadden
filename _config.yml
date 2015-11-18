@@ -1,0 +1,46 @@
+source: public-src
+destination: public
+
+# Jykell configuration
+markdown: redcarpet
+highlighter: pigments
+paginate: 5
+language: 'en-us'
+
+# Website info
+name: 'Jacob Madden'
+description: "Don't cry because it's over, smile because it happened. -Dr Seuss"
+
+# Author's info
+author: 'Jacob Madden'
+# edit 'categories' in the front matter of every post to match this username
+username: jagatfx
+bio: 'A full stack software developer, traveler, artificial intelligence researcher, startup entrepreneur, ...'
+location: 'Ubud, Bali'
+baseurl: 'http://www.jmadden.org'
+url: 'http://www.jmadden.org'
+image: 'assets/images/jacob.jpg'
+
+short_url: 'www.jmadden.org'
+google_analytics:
+disqus: jagatfx
+# edit baseurl to simply '/' if using as your personal page (instead of a project page)
+baseurl: /
+
+# Permalinks
+permalink: /:title
+# permalink: /author/:username
+# permalink: /tag/:tag
+
+
+# gems and other configs
+gems: [jekyll-paginate]
+exclude: [vendor]
+
+# Additional settings available on the front-matter
+# Site logo in the index.html (as in demo.ghost.io)
+# Author's page cover in _layouts/author.html
+# The same for page.html and tag.html layouts
+# Post's page cover as a per-post basis _posts/...
+# Disqus comments as a per-post basis
+# ...
