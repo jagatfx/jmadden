@@ -17,13 +17,13 @@
     <loc>http://jmadden.org//now/</loc>
   </url>
   <url>
-    <loc>http://jmadden.org//author/casper/</loc>
-  </url>
-  <url>
     <loc>http://jmadden.org//tag/beginning/</loc>
   </url>
   <url>
     <loc>http://jmadden.org//tag/content/</loc>
+  </url>
+  <url>
+    <loc>http://jmadden.org//author/casper/</loc>
   </url>
     <url>
       <loc>http://jmadden.org//casper/2015/11/18/the-beginning/</loc>
