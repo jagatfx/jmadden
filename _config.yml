@@ -24,14 +24,14 @@ short_url: 'www.jmadden.org'
 google_analytics:
 disqus: jagatfx
 
-# Permalinks
-permalink: /:title
-# permalink: /author/:username
-# permalink: /tag/:tag
+permalink: pretty
 
 
 # gems and other configs
-gems: [jekyll-paginate]
+gems:
+  - jekyll-sitemap
+  - jekyll-paginate
+
 exclude: [vendor]
 
 # Additional settings available on the front-matter
