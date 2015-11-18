@@ -24,8 +24,6 @@ image: 'assets/images/jacob.jpg'
 short_url: 'www.jmadden.org'
 google_analytics:
 disqus: jagatfx
-# edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /
 
 # Permalinks
 permalink: /:title
