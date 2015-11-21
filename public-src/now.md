@@ -15,7 +15,7 @@ Ubud, Bali
 
 ## What I'm Doing Right Now
 
-* Exploring opportunities in startup company creation and preparing for Startup Weekend Bali on Friday
+* Rocking Startup Weekend Bali with the Design My Day app
 * Working to launch [Wordpressya](http://www.wordpressya.com)
 * Investigating business possibilities for t-shirt designs
 * Attending creative sessions at hubud
