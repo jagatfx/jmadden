@@ -11,11 +11,11 @@ current: now
 
 ## Location
 
-Ubud, Bali
+Ubud, Bali, Indonesia
 
 ## What I'm Doing Right Now
 
-* Rocking Startup Weekend Bali with the Design My Day app
+* Pushing to get Design My Day to win Global Startup Battle 2015 Watch pitch video and [Vote for us now!](https://app.reviewr.com/gsb/pitch?evtid=1305517&group=1305626&subid=1350638)
 * Working to launch [Wordpressya](http://www.wordpressya.com)
 * Investigating business possibilities for t-shirt designs
-* Attending creative sessions at hubud
+* Attending creative sessions at Hubud
