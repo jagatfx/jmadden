@@ -18,6 +18,6 @@ Troy, New York, USA
 * Launching [Design My Day](http://www.designmyday.co) app's beta program
 * Working on my 'Year Zero' dystopia screenplay
 * Working to enhance [ThemeSpy](http://www.themespy.com) [Wordpressya](http://www.wordpressya.com)
-* Experimenting with virtual reality (VR) using the Oculus Rift, Leap Motion and Unity
+* Experimenting with virtual reality (VR) using the Oculus Rift, Leap Motion and Unity after the [Tech Valley AR/VR Gaming Hackathon](http://tvcog-arvr-gaming2016.devpost.com)
 * Creating a clone of the Façade game in Unity called [Dinner Party](https://github.com/jagatfx/dinnerparty)
 * Going down to NYC for [Tech Day](https://techdayhq.com/new-york) this week
