@@ -11,12 +11,13 @@ current: now
 
 ## Location
 
-Florence, Italy
+Troy, New York, USA
 
 ## What I'm Doing Right Now
 
-* Meeting my 3-month old nephew for the first time
-* Improving the Design My Day app's MVP through user feedback to move towards full launch
-* Pondering creative short film ideas to film while in Italy
-* Working to launch [Wordpressya](http://www.wordpressya.com)
-* Investigating business possibilities for t-shirt designs
+* Launching [Design My Day](http://www.designmyday.co) app's beta program
+* Working on my 'Year Zero' dystopia screenplay
+* Working to enhance [ThemeSpy](http://www.themespy.com) [Wordpressya](http://www.wordpressya.com)
+* Experimenting with virtual reality (VR) using the Oculus Rift, Leap Motion and Unity
+* Creating a clone of the Façade game in Unity called [Dinner Party](https://github.com/jagatfx/dinnerparty)
+* Going down to NYC for [Tech Day](https://techdayhq.com/new-york) this week
