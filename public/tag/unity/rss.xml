@@ -12,11 +12,11 @@
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
-	  <title>Delhi Rickshaw</title>
-	  <link>http://jmadden.org//casper/2016/03/30/delhi-rickshaw/</link>
+	  <title>Delhi Rickshaw Game</title>
+	  <link>http://jmadden.org//casper/2016/03/30/delhi-rickshaw-game/</link>
 	  <author>Jacob Madden</author>
 	  <pubDate>2016-03-30T00:00:00-04:00</pubDate>
-	  <guid>http://jmadden.org//casper/2016/03/30/delhi-rickshaw/</guid>
+	  <guid>http://jmadden.org//casper/2016/03/30/delhi-rickshaw-game/</guid>
 	  <description><![CDATA[
 	     <p>
 I recently joined the <a href="http://www.techvalleygamespace.com" target="_blank">Tech Valley Game Space (TVGS)</a> and participated in their first "Shark Tank" event where people present game ideas and the winning pitch gets access to volunteers to create a game over the following month. My pitch of a game idea called <a href="http://www.techvalleygamespace.com/project-night-delhi-rickshaw-shark-tank-2-march-30-2016" target="_blank">"Delhi Rickshaw"</a> was the winning pitch and we spent the last month developing the idea in Unity. It was a lot of fun to have a push towards finally sitting down to learn the essentials of Unity. I was impressed by how easy the engine is to work with and enjoyed coding in C#. The tutorials from Unity like the Tank Tutorial were also very helpful to get up and running and the key aspects of a game.
