@@ -52,7 +52,7 @@
 </head>
 
 
-<body class="home-template nav-closed">
+<body class="tag-template nav-closed">
 
     <div class="nav">
     <h3 class="nav-title">Menu</h3>
@@ -60,7 +60,7 @@
         <span class="hidden">Close</span>
     </a>
     <ul>
-        <li class="nav-home  nav-current" role="presentation"><a href="http://jmadden.org/">Home</a></li>
+        <li class="nav-home " role="presentation"><a href="http://jmadden.org/">Home</a></li>
         <li class="nav-about " role="presentation"><a href="http://jmadden.org/about">About</a></li>
         <li class="nav-now " role="presentation"><a href="http://jmadden.org/now">Now</a></li>
     </ul>
@@ -70,12 +70,14 @@
 
     <div class="site-wrapper">
 
-        <!-- < default -->
+        <!-- < dynamically overriding backgrounds for tags as well as descriptions -->
+
+
+<!-- < default}} -->
 <!-- The tag above means - insert everything in this file into the [body] of the default.hbs template -->
 
-<!-- The big featured header  -->
-<header class="main-header "
-        style="background-image: url(http://jmadden.org/assets/images/cover1.jpg) ">
+<!-- If we have a tag cover, display that - else blog cover - else nothing -->
+<header class="main-header tag-head " style="background-image: url(http://jmadden.org/assets/images/cover2.jpg) ">
     <nav class="main-nav overlay clearfix">
         
         
@@ -84,11 +86,14 @@
     </nav>
     <div class="vertical">
         <div class="main-header-content inner">
-            <h1 class="page-title">Jacob Madden</h1>
-            <h2 class="page-description">Don't cry because it's over, smile because it happened. -Dr Seuss</h2>
+            <h1 class="page-title">Unity</h1>
+            <h2 class="page-description">
+            
+			    A 1-post collection
+            
+            </h2>
         </div>
     </div>
-    <a class="scroll-down icon-arrow-left" href="#content" data-offset="-45"><span class="hidden">Scroll Down</span></a>
 </header>
 
 <!-- The main content area on the homepage -->
@@ -108,38 +113,6 @@
     </div>
 
     <!-- This is the post loop - each post will be output using this markup -->
-    
-    <article class="post">
-        <header class="post-header">
-            <h2 class="post-title"><a href="http://jmadden.org//casper/2016/04/17/virtual-reality-hackathon/">Virtual Reality Hackathon</a></h2>
-        </header>
-        <section class="post-excerpt">
-            <p><p> I was fortunate enough to be able to participate in the Tech Valley AR/VR Gaming Hackathon in Troy, New York. It was incredible to be... <a class="read-more" href="http://jmadden.org//casper/2016/04/17/virtual-reality-hackathon/">&raquo;</a></p>
-        </section>
-        <footer class="post-meta">
-            <img class="author-thumb" src="http://jmadden.org/assets/images/jacob.jpg" alt="Author image" nopin="nopin" />
-            <!-- author -->
-            <a href='http://jmadden.org/author/jagatfx'>Jacob Madden</a>
-            <!-- [[tags prefix=" on "]] -->
-            
-                on
-                
-                    
-                       <a href='http://jmadden.org/tag/virtual-reality'>Virtual-reality</a>,
-                    
-                
-                    
-                       <a href='http://jmadden.org/tag/hackathon'>Hackathon</a>,
-                    
-                
-                    
-                       <a href='http://jmadden.org/tag/content'>Content</a>
-                    
-                
-            
-            <time class="post-date" datetime="2016-04-17">17 Apr 2016</time>
-        </footer>
-    </article>
     
     <article class="post">
         <header class="post-header">
@@ -173,66 +146,6 @@
         </footer>
     </article>
     
-    <article class="post">
-        <header class="post-header">
-            <h2 class="post-title"><a href="http://jmadden.org//casper/2015/11/22/startup-weekend-bali/">Startup Weekend Bali</a></h2>
-        </header>
-        <section class="post-excerpt">
-            <p><p> I attended and pitched one of my ideas at <a href="http://www.up.co/communities/indonesia/bali/startup-weekend/6461" target="_blank">Startup Weekend Bali 2015</a> in Ubud, Bali, held at the coworking space there <a... <a class="read-more" href="http://jmadden.org//casper/2015/11/22/startup-weekend-bali/">&raquo;</a></p>
-        </section>
-        <footer class="post-meta">
-            <img class="author-thumb" src="http://jmadden.org/assets/images/jacob.jpg" alt="Author image" nopin="nopin" />
-            <!-- author -->
-            <a href='http://jmadden.org/author/jagatfx'>Jacob Madden</a>
-            <!-- [[tags prefix=" on "]] -->
-            
-                on
-                
-                    
-                       <a href='http://jmadden.org/tag/startup'>Startup</a>,
-                    
-                
-                    
-                       <a href='http://jmadden.org/tag/bali'>Bali</a>,
-                    
-                
-                    
-                       <a href='http://jmadden.org/tag/design-my-day'>Design-my-day</a>
-                    
-                
-            
-            <time class="post-date" datetime="2015-11-22">22 Nov 2015</time>
-        </footer>
-    </article>
-    
-    <article class="post">
-        <header class="post-header">
-            <h2 class="post-title"><a href="http://jmadden.org//casper/2015/11/18/the-beginning/">The Beginning</a></h2>
-        </header>
-        <section class="post-excerpt">
-            <p><p>Inspired by <a href="https://sivers.org" target="_blank">Derek Sivers</a> and his <a href="http://nownownow.com" target="_blank">nownownow.com</a>, I've created a simple space for me to add what I am doing and what... <a class="read-more" href="http://jmadden.org//casper/2015/11/18/the-beginning/">&raquo;</a></p>
-        </section>
-        <footer class="post-meta">
-            <img class="author-thumb" src="http://jmadden.org/assets/images/jacob.jpg" alt="Author image" nopin="nopin" />
-            <!-- author -->
-            <a href='http://jmadden.org/author/jagatfx'>Jacob Madden</a>
-            <!-- [[tags prefix=" on "]] -->
-            
-                on
-                
-                    
-                       <a href='http://jmadden.org/tag/beginning'>Beginning</a>,
-                    
-                
-                    
-                       <a href='http://jmadden.org/tag/content'>Content</a>
-                    
-                
-            
-            <time class="post-date" datetime="2015-11-18">18 Nov 2015</time>
-        </footer>
-    </article>
-    
 
     <!-- Previous/next page links - displayed on every page -->
     
@@ -246,7 +159,6 @@
 
 
 </main>
-
 
                 <footer class="site-footer clearfix">
           <section class="copyright"><a href="http://jmadden.org/">Jacob Madden</a> &copy; 2016</section>

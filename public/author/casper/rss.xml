@@ -26,6 +26,28 @@ I was fortunate enough to be able to participate in the Tech Valley AR/VR Gaming
 	</item>
 
 	<item>
+	  <title>Delhi Rickshaw</title>
+	  <link>http://jmadden.org//casper/2016/03/30/delhi-rickshaw/</link>
+	  <author>Jacob Madden</author>
+	  <pubDate>2016-03-30T00:00:00-04:00</pubDate>
+	  <guid>http://jmadden.org//casper/2016/03/30/delhi-rickshaw/</guid>
+	  <description><![CDATA[
+	     <p>
+I recently joined the <a href="http://www.techvalleygamespace.com" target="_blank">Tech Valley Game Space (TVGS)</a> and participated in their first "Shark Tank" event where people present game ideas and the winning pitch gets access to volunteers to create a game over the following month. My pitch of a game idea called <a href="http://www.techvalleygamespace.com/project-night-delhi-rickshaw-shark-tank-2-march-30-2016" target="_blank">"Delhi Rickshaw"</a> was the winning pitch and we spent the last month developing the idea in Unity. It was a lot of fun to have a push towards finally sitting down to learn the essentials of Unity. I was impressed by how easy the engine is to work with and enjoyed coding in C#. The tutorials from Unity like the Tank Tutorial were also very helpful to get up and running and the key aspects of a game.
+</p>
+
+<p>
+The Delhi Rickshaw game idea came from my time abroad in Southeast Asia. I was fascinated by the different styles of rickshaw in the various cities and wanted to make a game that merged the perspective of the original Grand Theft Auto, the business idea of Lemonade stand and future clones, and the competition and gamification of R.C. Pro-Am.
+</p>
+
+<p style="text-align: center;">
+<img src="/assets/images/delhi-rickshaw2.png" alt="Delhi Rickshaw" />
+</p>
+
+	  ]]></description>
+	</item>
+
+	<item>
 	  <title>Startup Weekend Bali</title>
 	  <link>http://jmadden.org//casper/2015/11/22/startup-weekend-bali/</link>
 	  <author>Jacob Madden</author>
