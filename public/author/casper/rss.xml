@@ -3,9 +3,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-      <title>www.jmadden.org</title>
+      <title>www.jmadden.co</title>
    
-   <link>http://jmadden.org/</link>
+   <link>http://jmadden.co/</link>
    <description>Don't cry because it's over, smile because it happened. -Dr Seuss</description>
    <language>en-us</language>
    <managingEditor> Jacob Madden</managingEditor>
@@ -13,10 +13,10 @@
    
 	<item>
 	  <title>Virtual Reality Hackathon</title>
-	  <link>http://jmadden.org//casper/2016/04/17/virtual-reality-hackathon/</link>
+	  <link>http://jmadden.co//casper/2016/04/17/virtual-reality-hackathon/</link>
 	  <author>Jacob Madden</author>
 	  <pubDate>2016-04-17T00:00:00-04:00</pubDate>
-	  <guid>http://jmadden.org//casper/2016/04/17/virtual-reality-hackathon/</guid>
+	  <guid>http://jmadden.co//casper/2016/04/17/virtual-reality-hackathon/</guid>
 	  <description><![CDATA[
 	     <p>
 I was fortunate enough to be able to participate in the Tech Valley AR/VR Gaming Hackathon in Troy, New York. It was incredible to be able to experiment with the various virtual reality technologies like the <a href="https://www.oculus.com" target="_blank">Oculus Rift</a>, the <a href="https://www.htcvive.com" target="_blank">HTC Vive</a> and <a href="https://www.leapmotion.com" target="_blank">Leap Motion controller</a>. I made an entry with the <a href="https://unity3d.com" target="_blank">Unity game engine</a> called RalphVR that is a recreation of the handheld electronic memory game simon in virtual reality. My entry which won Best Game is documented <a href="http://devpost.com/software/simonvr" target="_blank">here</a>.
@@ -27,10 +27,10 @@ I was fortunate enough to be able to participate in the Tech Valley AR/VR Gaming
 
 	<item>
 	  <title>Delhi Rickshaw Game</title>
-	  <link>http://jmadden.org//casper/2016/03/30/delhi-rickshaw-game/</link>
+	  <link>http://jmadden.co//casper/2016/03/30/delhi-rickshaw-game/</link>
 	  <author>Jacob Madden</author>
 	  <pubDate>2016-03-30T00:00:00-04:00</pubDate>
-	  <guid>http://jmadden.org//casper/2016/03/30/delhi-rickshaw-game/</guid>
+	  <guid>http://jmadden.co//casper/2016/03/30/delhi-rickshaw-game/</guid>
 	  <description><![CDATA[
 	     <p>
 I recently joined the <a href="http://www.techvalleygamespace.com" target="_blank">Tech Valley Game Space (TVGS)</a> and participated in their first "Shark Tank" event where people present game ideas and the winning pitch gets access to volunteers to create a game over the following month. My pitch of a game idea called <a href="http://www.techvalleygamespace.com/project-night-delhi-rickshaw-shark-tank-2-march-30-2016" target="_blank">"Delhi Rickshaw"</a> was the winning pitch and we spent the last month developing the idea in Unity. It was a lot of fun to have a push towards finally sitting down to learn the essentials of Unity. I was impressed by how easy the engine is to work with and enjoyed coding in C#. The tutorials from Unity like the Tank Tutorial were also very helpful to get up and running and the key aspects of a game.
@@ -49,10 +49,10 @@ The Delhi Rickshaw game idea came from my time abroad in Southeast Asia. I was f
 
 	<item>
 	  <title>Startup Weekend Bali</title>
-	  <link>http://jmadden.org//casper/2015/11/22/startup-weekend-bali/</link>
+	  <link>http://jmadden.co//casper/2015/11/22/startup-weekend-bali/</link>
 	  <author>Jacob Madden</author>
 	  <pubDate>2015-11-22T00:00:00-05:00</pubDate>
-	  <guid>http://jmadden.org//casper/2015/11/22/startup-weekend-bali/</guid>
+	  <guid>http://jmadden.co//casper/2015/11/22/startup-weekend-bali/</guid>
 	  <description><![CDATA[
 	     <p>
 I attended and pitched one of my ideas at <a href="http://www.up.co/communities/indonesia/bali/startup-weekend/6461" target="_blank">Startup Weekend Bali 2015</a> in Ubud, Bali, held at the coworking space there <a href="http://www.hubud.org" target="_blank">hubud</a>. My idea, <a href="http://www.designmyday.co/" target="_blank">Design My Day</a>, and pitch were well-received and I was able to gather an extraordinary team. We worked very well together for the weekend and came up with a powerful pitch that ended up being awarded the winning startup for the weekend. Now it is time to build out our concept and see if the world embraces it as something helpful.
@@ -63,10 +63,10 @@ I attended and pitched one of my ideas at <a href="http://www.up.co/communities/
 
 	<item>
 	  <title>The Beginning</title>
-	  <link>http://jmadden.org//casper/2015/11/18/the-beginning/</link>
+	  <link>http://jmadden.co//casper/2015/11/18/the-beginning/</link>
 	  <author>Jacob Madden</author>
 	  <pubDate>2015-11-18T00:00:00-05:00</pubDate>
-	  <guid>http://jmadden.org//casper/2015/11/18/the-beginning/</guid>
+	  <guid>http://jmadden.co//casper/2015/11/18/the-beginning/</guid>
 	  <description><![CDATA[
 	     <p>Inspired by <a href="https://sivers.org" target="_blank">Derek Sivers</a> and his <a href="http://nownownow.com" target="_blank">nownownow.com</a>, I've created a simple space for me to add what I am doing and what is going on in life.</p>
 
