@@ -5,7 +5,7 @@
    
       <title>www.jmadden.co</title>
    
-   <link>http://jmadden.co/</link>
+   <link>http://localhost:4000</link>
    <description>Don't cry because it's over, smile because it happened. -Dr Seuss</description>
    <language>en-us</language>
    <managingEditor> Jacob Madden</managingEditor>
@@ -13,10 +13,10 @@
    
 	<item>
 	  <title>The Beginning</title>
-	  <link>http://jmadden.co//casper/2015/11/18/the-beginning/</link>
+	  <link>http://localhost:4000/casper/2015/11/18/the-beginning/</link>
 	  <author>Jacob Madden</author>
 	  <pubDate>2015-11-18T00:00:00-05:00</pubDate>
-	  <guid>http://jmadden.co//casper/2015/11/18/the-beginning/</guid>
+	  <guid>http://localhost:4000/casper/2015/11/18/the-beginning/</guid>
 	  <description><![CDATA[
 	     <p>Inspired by <a href="https://sivers.org" target="_blank">Derek Sivers</a> and his <a href="http://nownownow.com" target="_blank">nownownow.com</a>, I've created a simple space for me to add what I am doing and what is going on in life.</p>
 
