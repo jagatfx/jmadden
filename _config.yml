@@ -1,7 +1,7 @@
 source: public-src
 destination: public
 
-# Jykell configuration
+# Jekyll configuration
 markdown: redcarpet
 highlighter: pigments
 paginate: 5
@@ -15,9 +15,9 @@ description: "Don't cry because it's over, smile because it happened. -Dr Seuss"
 author: 'Jacob Madden'
 # edit 'categories' in the front matter of every post to match this username
 username: jagatfx
-bio: 'A full stack software developer, traveler, artificial intelligence researcher, startup entrepreneur, ...'
-location: 'Troy, New York'
-url: 'http://jmadden.co/'
+bio: 'A full stack software developer, traveler, artificial intelligence researcher, ...'
+location: 'Schenectady, New York'
+url: 'http://jmadden.co'
 image: 'assets/images/jacob.jpg'
 
 short_url: 'www.jmadden.co'

@@ -5,7 +5,7 @@
    
       <title>www.jmadden.co</title>
    
-   <link>http://localhost:4000</link>
+   <link>http://jmadden.co</link>
    <description>Don't cry because it's over, smile because it happened. -Dr Seuss</description>
    <language>en-us</language>
    <managingEditor> Jacob Madden</managingEditor>
@@ -13,10 +13,10 @@
    
 	<item>
 	  <title>Delhi Rickshaw Game</title>
-	  <link>http://localhost:4000/casper/2016/03/30/delhi-rickshaw-game/</link>
+	  <link>http://jmadden.co//casper/2016/03/30/delhi-rickshaw-game/</link>
 	  <author>Jacob Madden</author>
-	  <pubDate>2016-03-30T00:00:00-04:00</pubDate>
-	  <guid>http://localhost:4000/casper/2016/03/30/delhi-rickshaw-game/</guid>
+	  <pubDate>2016-03-30T00:00:00-05:00</pubDate>
+	  <guid>http://jmadden.co//casper/2016/03/30/delhi-rickshaw-game/</guid>
 	  <description><![CDATA[
 	     <p>
 I recently joined the <a href="http://www.techvalleygamespace.com" target="_blank">Tech Valley Game Space (TVGS)</a> and participated in their first "Shark Tank" event where people present game ideas and the winning pitch gets access to volunteers to create a game over the following month. My pitch of a game idea called <a href="http://www.techvalleygamespace.com/project-night-delhi-rickshaw-shark-tank-2-march-30-2016" target="_blank">"Delhi Rickshaw"</a> was the winning pitch and we spent the last month developing the idea in Unity. It was a lot of fun to have a push towards finally sitting down to learn the essentials of Unity. I was impressed by how easy the engine is to work with and enjoyed coding in C#. The tutorials from Unity like the Tank Tutorial were also very helpful to get up and running and the key aspects of a game.
